@@ -17,6 +17,7 @@ pillow = "^10.3.0"
 python-dotenv = "^1.0.1"
 whitenoise = "^6.6.0"
 gitpython = "^3.1.43"
+gunicorn = "^22.0.0"
 
 
 [build-system]
